@@ -1,6 +1,6 @@
 {
- "versionCode": 4,
- "versionName": "0.3.1",
- "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.3.1/SetoTV-0.3.1.apk",
- "notas": "La tele ya no pone el protector de pantalla mientras hay un canal andando. Canales con trozos de video largos (como Mi Radio TV) ya no andan a saltos."
+ "versionCode": 5,
+ "versionName": "0.3.2",
+ "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.3.2/SetoTV-0.3.2.apk",
+ "notas": "La tele ya no pone el protector de pantalla mientras hay un canal andando. Mi Radio TV y canales parecidos ya no andan a saltos. SetoTV ahora revisa si hay versión nueva cada vez que vuelves a ella."
 }
