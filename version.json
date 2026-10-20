@@ -1,6 +1,6 @@
 {
- "versionCode": 3,
- "versionName": "0.3.0",
- "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.3.0/SetoTV-0.3.0.apk",
- "notas": "Arreglos del menú (el botón OK y la vuelta a las categorías) y sin subtítulos encima del video."
+ "versionCode": 4,
+ "versionName": "0.3.1",
+ "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.3.1/SetoTV-0.3.1.apk",
+ "notas": "La tele ya no pone el protector de pantalla mientras hay un canal andando. Canales con trozos de video largos (como Mi Radio TV) ya no andan a saltos."
 }
