@@ -1,6 +1,6 @@
 {
- "versionCode": 7,
- "versionName": "0.4.1",
- "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.4.1/SetoTV-0.4.1.apk",
- "notas": "Novedades: si se corta el internet, el canal vuelve solo; si un canal falla, busca otra señal por su cuenta; ícono nuevo; números marcados más rápido; los canales de Pluto ya no se quedan en la pantalla negra. En teles nuevas, las próximas actualizaciones se instalarán solas al apagar la tele."
+ "versionCode": 8,
+ "versionName": "0.5.0",
+ "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.5.0/SetoTV-0.5.0.apk",
+ "notas": "Novedades: SetoTV ahora funciona solo en las teles habilitadas por Gonzalo (las de la familia quedan habilitadas solas al actualizar). Mejoras para que los canales carguen y se recuperen mejor."
 }
