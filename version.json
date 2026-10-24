@@ -1,6 +1,6 @@
 {
- "versionCode": 8,
- "versionName": "0.5.0",
- "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.5.0/SetoTV-0.5.0.apk",
- "notas": "Novedades: SetoTV ahora funciona solo en las teles habilitadas por Gonzalo (las de la familia quedan habilitadas solas al actualizar). Mejoras para que los canales carguen y se recuperen mejor."
+ "versionCode": 9,
+ "versionName": "0.5.1",
+ "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.5.1/SetoTV-0.5.1.apk",
+ "notas": "Arreglo: en celulares (o con letra grande) el menú volvía a mostrar categorías y canales."
 }
