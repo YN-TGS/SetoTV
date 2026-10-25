@@ -1,6 +1,6 @@
 {
- "versionCode": 9,
- "versionName": "0.5.1",
- "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.5.1/SetoTV-0.5.1.apk",
- "notas": "Arreglo: en celulares (o con letra grande) el menú volvía a mostrar categorías y canales."
+ "versionCode": 10,
+ "versionName": "0.6.0",
+ "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.6.0/SetoTV-0.6.0.apk",
+ "notas": "Reconecta más rápido cuando se corta un canal. En el celular: toca la pantalla para ver Canales, Cartelera, Favorito y Recargar, y desliza para cambiar de canal. Además, SetoTV queda lista para actualizarse sola."
 }
