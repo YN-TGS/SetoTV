@@ -1,6 +1,7 @@
 {
- "versionCode": 10,
- "versionName": "0.6.0",
- "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.6.0/SetoTV-0.6.0.apk",
- "notas": "Reconecta más rápido cuando se corta un canal. En el celular: toca la pantalla para ver Canales, Cartelera, Favorito y Recargar, y desliza para cambiar de canal. Además, SetoTV queda lista para actualizarse sola."
+ "versionCode": 11,
+ "versionName": "0.7.0",
+ "apk": "https://github.com/YN-TGS/SetoTV/releases/download/v0.7.0/SetoTV-0.7.0.apk",
+ "notas": "Desde esta versión la tele ya no se actualiza sola: cuando haya una nueva, en Opciones aparece «Actualización disponible». Además, si la tele se desenchufa mientras guarda los canales, ya no se queda sin canales.",
+ "sha256": "c11530540b53cc576428884898225d382982095b0293314e10de34ed8d38b5bf"
 }
